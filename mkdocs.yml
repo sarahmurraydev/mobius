@@ -19,7 +19,7 @@ nav:
   - 'FAQ': faq.md
   - 'Getting Started':
       - 'Creating a loop': getting-started/creating-a-loop.md
-      - 'Mobius an RxJava': getting-started/mobius-and-rx-java.md
+      - 'Mobius and RxJava': getting-started/mobius-and-rx-java.md
       - 'Mobius and Android': getting-started/mobius-and-android.md
       - 'Configuring a MobiusLoop': getting-started/configuring-a-mobius-loop.md
       - 'Logging and Error Handling': getting-started/logging-and-error-handling.md
